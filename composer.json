@@ -1,0 +1,13 @@
+{
+    "name": "tarlepp/phpunit-assert-same-poc",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "tarlepp",
+            "email": "tarmo.leppanen@protacon.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.3@dev"
+    }
+}
